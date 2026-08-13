@@ -1,0 +1,8 @@
+{
+  "name": "USDG Gold",
+  "symbol": "USDG",
+  "description": "USDG Gold is a fixed-supply digital token designed for use on an EVM-compatible blockchain network. The token uses 18 decimals and provides standard token transfers, approvals, and allowance-based transfers.",
+  "decimals": 18,
+  "standard": "ERC-20",
+  "image": "https://YOUR-DOMAIN.example/usdg-gold.png"
+}
