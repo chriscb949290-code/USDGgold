@@ -4,5 +4,5 @@
   "description": "USDG Gold is a fixed-supply digital token designed for use on an EVM-compatible blockchain network. The token uses 18 decimals and provides standard token transfers, approvals, and allowance-based transfers.",
   "decimals": 18,
   "standard": "ERC-20",
-  "image": "https://github.com/chriscb949290-code/USDGgold/blob/main/logo.png"
+  "image": "https://raw.githubusercontent.com/chriscb949290-code/USDGgold/main/logo.png"
 }
